@@ -1,0 +1,5 @@
+#!/bin/bash
+source ./venv/bin/activate
+export PYTHONPATH=`pwd`
+export VIRTUAL_ENV_AUTO_ACTIVATED='YES'
+
